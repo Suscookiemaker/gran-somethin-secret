@@ -1,0 +1,7 @@
+{
+  "name": "granule",
+  "productName": "Granule",
+  "version": "0.2.15",
+  "main": "main.js",
+  "private": true
+}
